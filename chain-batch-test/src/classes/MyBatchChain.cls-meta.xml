@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>27.0</apiVersion>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>7</minorNumber>
+        <namespace>ffdc_swillcock1</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>0</minorNumber>
+        <namespace>ffdc_swillcock2</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>0</minorNumber>
+        <namespace>ffdc_swillcock3</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>0</minorNumber>
+        <namespace>fflaunchtab</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>0</minorNumber>
+        <namespace>ffproto_locking</namespace>
+    </packageVersions>
+    <status>Active</status>
+</ApexClass>
